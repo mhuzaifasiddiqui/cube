@@ -1,0 +1,22 @@
+{
+  "name": "cube-huzaifasiddiqui",
+  "version": "1.0.0",
+  "description": "This number calculates cube of a given number",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhuzaifasiddiqui/cube.git"
+  },
+  "keywords": [
+    "cube"
+  ],
+  "author": "mhuzaifasiddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhuzaifasiddiqui/cube/issues"
+  },
+  "homepage": "https://github.com/mhuzaifasiddiqui/cube#readme"
+}
