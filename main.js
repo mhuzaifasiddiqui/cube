@@ -1,5 +1,6 @@
-export const cube  = (n) => {
+const cube  = (n) => {
     return n*n*n
 }
 
 
+module.exports = {cube}

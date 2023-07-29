@@ -1,6 +1,6 @@
 {
   "name": "cube-huzaifasiddiqui",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This number calculates cube of a given number",
   "main": "main.js",
   "scripts": {
